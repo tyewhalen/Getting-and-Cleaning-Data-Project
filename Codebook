@@ -1,0 +1,8 @@
+subject: Merged version of the subject_train and subject_test data.
+features: Merged version of the features_train and features_test data.
+activity: Merged version of the activity_train and activity_test data.
+activity_labels: Links the class labels with their activity name.
+
+data_merged: Merged version of the subject, features and activity training and test datasets to create one dataset.
+mean_std_data: The merged dataset with only columns that contain measures of mean and standard deviation.
+tidy_data: Activities were named using descriptive activity names and appropriate labeling was used for descriptive activity names to create a tidy dataset with the mean of each variable for each activity and subject.
